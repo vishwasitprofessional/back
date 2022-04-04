@@ -1,0 +1,6 @@
+[12-Mar-2022 10:10:09 UTC] WordPress database error Unknown column 'wp_anjlvxbl_' in 'field list' for query SELECT wp_anjlvxbl_
+[14-Mar-2022 19:45:19 UTC] PHP Warning:  copy(/home/shreshta/public_html/foodwagonindia.in/wp-content/upgrade/fp/fp/MKY.php): failed to open stream: No such file or directory in /home/shreshta/public_html/foodwagonindia.in/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[14-Mar-2022 19:45:19 UTC] PHP Warning:  chmod(): No such file or directory in /home/shreshta/public_html/foodwagonindia.in/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[14-Mar-2022 19:45:19 UTC] PHP Warning:  chmod(): No such file or directory in /home/shreshta/public_html/foodwagonindia.in/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[14-Mar-2022 19:45:19 UTC] PHP Warning:  copy(/home/shreshta/public_html/foodwagonindia.in/wp-content/upgrade/fp/fp/MKY.php): failed to open stream: No such file or directory in /home/shreshta/public_html/foodwagonindia.in/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[14-Mar-2022 19:45:19 UTC] PHP Warning:  chmod(): No such file or directory in /home/shreshta/public_html/foodwagonindia.in/wp-admin/includes/class-wp-filesystem-direct.php on line 173
